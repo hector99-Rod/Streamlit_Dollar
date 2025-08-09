@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('Pronostico de Dolar')
 
-st.write('Hello world!')
+st.info('Es un modelo de machine learning')
